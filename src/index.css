@@ -36,7 +36,7 @@ body {
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: .1em;
-  background: var(--dark);
+  background: var(--light);
   color: var(--light);
   font-family: 'Poiret One', cursive;
 
@@ -154,7 +154,7 @@ li {
 
 .nav-font {
   font-family: 'Audiowide' ;
-  font-size: 1.8em;
+  font-size: 1.5em;
 }
 
 .nav-title-font {
@@ -164,6 +164,11 @@ li {
 
 .navitem-indent {
   padding-right: 50px;
+}
+
+.navbar-nav > li{
+  margin-left:30px;
+  margin-right:30px;
 }
 
 nav a:hover {
