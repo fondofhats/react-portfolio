@@ -12,6 +12,7 @@ main {
   --secondary: #F3A847;
   --tertiary: #B12704;
   --light: #fafafa;
+  --cultured: #A3A3A3;
   --dark: #000000;
   --darker: #111111;
   --error: rgb(228, 46, 1);
@@ -263,9 +264,74 @@ textarea {
   padding-bottom: var(--spacing-two);
 }
 
+.wrapper {
+  padding-top: 50px;
+  justify-content: space-around;
+  height: 100%;
+  display: flex;
+  overflow: auto;
+  flex-flow: row wrap;
+  padding: 10px;
+  align-content: flex-start;
+}
+
 .card {
-  width: 25%;
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 400px;
+  margin: 2rem;
+  position: relative;
+  width: 400px;
+  box-shadow: 0 2px 2px var(--cultured), 0 6px 12px var(--cultured);
+}
+
+.card .img-container {
+  height: 75%;
+  overflow: hidden;
   text-align: center;
+  border-radius: 10px;
+  background-color: var(--white);
+}
+
+.card .img-container img {
+  width: 100%;
+  padding: 25px;
+  margin-bottom: 20px;
+  background-color: var(--white);
+}
+
+.card .content {
+  font-size: 18px;
+  background-color: var(--white);
+  color: var(--cadet-blue);
+  font-weight: bold;
+  text-align: center;
+}
+
+.card-title{
+  margin-top: 10px;
+  color: var(--eerie-black);
+}
+
+.project-title {
+  color: var(--cultured);
+  background-color: var(--white);
+}
+
+.project-icons-container {
+  background-color: var(--white);
+}
+
+.project-icon {
+  background-color: var(--white);
+  padding: 5px;
+}
+
+.topics {
+  font-size: small;
+  font-style: italic;
+  color: var(--cultured);
+  background-color: var(--white)
 }
 
 .img-thumbnail {

@@ -10,9 +10,9 @@ function Wrapper(props) {
 function Portfolio () {  
 
     return (
-        <section>
+        <section className="container">
           <div className="project">
-            <h2 className="title">Development</h2>
+            <h2 className="top-title">Bootcamp Portfolio</h2>
             <hr></hr>
           </div>
 
