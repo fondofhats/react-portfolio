@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Week In View",
+        "image": "https://github.com/kpehl/week-in-view/raw/main/media/week-in-view.png",
+        "github": "https://github.com/kpehl/week-in-view",
+        "deploy": "https://rocky-mountain-95430.herokuapp.com/",
+        "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
+    },
+    {
+        "id": 2,
+        "name": "Park Travel App",
+        "image": "https://github.com/aznjp/park-travel-app/raw/master/assets/images/Park-Travel-App.png",
+        "github": "https://github.com/aznjp/park-travel-app",
+        "deploy": "https://aznjp.github.io/park-travel-app/",
+        "topics": "HTML, CSS, Javascript, JQuery, REST API"
+    },
+    {
+        "id": 3,
+        "name": "Tech Blog",
+        "image": "https://github.com/fondofhats/tech-blog/raw/main/tech-blog.png",
+        "github": "https://github.com/fondofhats/tech-blog",
+        "deploy": "https://foh-tech-blog.herokuapp.com/",
+        "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
+    },
+    {
+        "id": 4,
+        "name": "Weather Dashboard",
+        "image": "https://github.com/fondofhats/weather-dashboard/raw/master/weather-dashboard.png",
+        "github": "https://github.com/fondofhats/weather-dashboard",
+        "deploy": "https://fondofhats.github.io/weather-dashboard/",
+        "topics": "moment.js, javascript, jQuery, localStorage, API"
+    },
+    {
+        "id": 5,
+        "name": "Budget Tracker",
+        "image": "https://github.com/fondofhats/pwa-budget-tracker/raw/main/docs/pwa-budget-tracker.png",
+        "github": "https://github.com/fondofhats/pwa-budget-tracker",
+        "deploy": "https://pwa-budget-traker.herokuapp.com/",
+        "topics": "node, express, javascript, mongoDB, mongoose, nodemon"
+    },
+    {
+        "id": 6,
+        "name": "Note Taker",
+        "image": "https://github.com/fondofhats/express-note-taker/raw/main/express-note-taker1.png",
+        "github": "https://github.com/fondofhats/express-note-taker",
+        "deploy": "https://fondofhats-express-note-taker.herokuapp.com/",
+        "topics": "node, express, javascript, bootstrap"
+    }
+]
