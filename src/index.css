@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Audiowide');
 @import url('https://fonts.googleapis.com/css?family=Days+One');
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
 
 main {
 	margin: 0 auto;
@@ -60,6 +61,8 @@ h1 {
 
 h2 {
   font-size: 2rem;
+  font-family: 'Abril Fatface';
+  color: var(--darker);
 }
 
 h3 {
@@ -126,6 +129,11 @@ img {
   max-width: 100%;
 }
 
+#avatar {
+  max-height:300px;
+  border-radius: 300px;
+  }
+
 span[role="img"] {
   cursor: default;
 }
@@ -160,6 +168,10 @@ li {
 .nav-title-font {
   font-family: 'Days One';
   font-size: 1.9em;
+}
+
+.top-title {
+  margin-top: 20px;
 }
 
 .navitem-indent {

@@ -1,11 +1,11 @@
 import React from "react";
-import { capitolizeFirstLetter } from "../../utils/helpers";
-import { Navbar, NavLink } from "react-bootstrap";
+import { Navbar } from "react-bootstrap";
+import {NavLink} from "react-router-dom";
 
-function Navigation() {
+function Navigation(props) {
   return (
     <div>
-      <Navbar expand="lg" bg="info" sticky="top">
+      <Navbar expand="lg" bg="dark" sticky="top">
         <NavLink className="nav-link" to="/">
           <div class="text-light">
             <h4 class="nav-title-font">Michael Giddings</h4>
