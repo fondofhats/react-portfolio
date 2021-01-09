@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Audiowide');
 @import url('https://fonts.googleapis.com/css?family=Days+One');
-@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
 
 main {
 	margin: 0 auto;
@@ -172,6 +172,7 @@ li {
 }
 
 .top-title {
+  font-family: 'Oswald';
   margin-top: 20px;
 }
 
