@@ -26,7 +26,7 @@ function Resume() {
           </p>
 
           <a
-            href="https://github.com/fondofhats/react-portfolio/main/docs/MichaelGiddingsResume.docx?raw=true"
+            href="https://github.com/fondofhats/react-portfolio/raw/main/docs/MichaelGiddingsResume.docx"
             class="link"
           >
             Download Resume
@@ -37,15 +37,13 @@ function Resume() {
       <div class="justify-content-center mt-5">
         <div>
           <h2 className="top-title">Proficiencies</h2>
-          <p>
-            SDL Tridion, Adobe Experience Manager (6.5, As a cloud Service)
-            C#.NET, ASP.NET, JAVA,{" "}
-          </p>
-          <p>
-            HTML, CSS (Bootstrap, HandleBars), JavaScript, jQuery,
-            React.js, IndexedDB,
-          </p>
-          <p>Node.js, Express.js, SQL, Sequelize, MongoDB, Mongoose, NoSQL, APIs, Templating</p>
+          <ul>
+            <li>
+            SDL Tridion, Adobe Experience Manager (6.5, As a cloud Service), C#.NET, ASP.NET, JAVA,<br />
+            HTML, CSS (Bootstrap, HandleBars), JavaScript, jQuery, React.js, IndexedDB,<br />
+            Node.js, Express.js, SQL, Sequelize, MongoDB, Mongoose, NoSQL, APIs, Templating.
+            </li>
+          </ul>
         </div>
       </div>
     </section>

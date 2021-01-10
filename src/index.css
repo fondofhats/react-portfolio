@@ -39,9 +39,7 @@ body {
   font-size: 18px;
   letter-spacing: .1em;
   background: var(--light);
-  color: var(--light);
-  font-family: 'Poiret One', cursive;
-
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 h1,
@@ -83,8 +81,6 @@ h6 {
 }
 
 p {
-  font-family: 'Roboto', sans-serif;
-  color: var(--dark);
   margin-top: 0;
 }
 
@@ -159,8 +155,6 @@ input:focus {
 }
 
 li {
-  font-family: 'Roboto', sans-serif;
-  color: var(--dark);
   list-style: none;
 }
 
