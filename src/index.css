@@ -85,6 +85,7 @@ h6 {
 p {
   font-family: 'Roboto', sans-serif;
   font-size: 1.1rem;
+  color: var(--dark);
   margin-top: 0;
 }
 
