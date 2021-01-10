@@ -335,6 +335,17 @@ textarea {
   background-color: var(--white)
 }
 
+.footer { 
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+} 
+
+.icon {
+  padding: 10px;
+}
+
+
 .img-thumbnail {
   width: auto;
   height: 300px;
