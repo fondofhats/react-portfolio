@@ -160,6 +160,9 @@ input:focus {
 }
 
 li {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.1rem;
+  color: var(--dark);
   list-style: none;
 }
 
