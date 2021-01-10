@@ -10,7 +10,7 @@ function About() {
                 <img class="mb-5" id="avatar" src="https://avatars3.githubusercontent.com/u/11549316?s=460&u=9cbb3efedf0845c6fb20524c104ba92fff38c871&v=4" alt="Michael Giddings" />
 
                 <p>
-                Seasoned programmer with over 19 years of experience incorporating user and business requirements into cost-effective, 
+                Seasoned programmer with over 20 years of experience incorporating user and business requirements into cost-effective, 
                 secure and user-friendly solutions known for scalability and durability. 
                 </p>
                 <p>
